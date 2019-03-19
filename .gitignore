@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Bazel
+.idea
+CMakeLists.txt
+bazel-bin
+bazel-gaia
+bazel-genfiles
+bazel-out
+bazel-testlogs
+cmake-build-debug
